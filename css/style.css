@@ -1,0 +1,65 @@
+*{
+font-family: 'Roboto', sans-serif;
+} 
+section {
+    margin-bottom: 6rem;;
+}
+h2 {
+    margin-bottom: 4rem;;
+}
+.w-1 {
+font-weight: 100;
+}
+
+.w-4 {
+font-weight: 400;
+}
+
+.w-7 {
+font-weight: 700;
+}
+
+.w-9 {
+font-weight: 900;
+}
+.logo {
+    width:136px; 
+}
+.carousel-inner {
+border: 1px solid #1A46B0;
+border-radius: 20px;
+}
+
+.carousel-control-prev-icon {
+background-image: url("./../img/icons/prev.svg") !important;
+}
+
+.carousel-control-next-icon {
+background-image: url("./../img/icons/next.svg") !important;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+width: 50px;
+height: 50px;
+opacity: 1;
+}
+
+.carousel-caption {
+position: relative;
+bottom: 0px;
+z-index: 10;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #fff;
+text-align: center;
+width: 100%;
+background: rgb(26,70,176);
+background: linear-gradient(180deg, rgba(26,70,176,1) 0%, rgba(2,123,225,1) 100%);
+left:0px;
+right:0px;
+}
+
+.bg-makair {
+background: rgb(26,70,176);
+background: linear-gradient(180deg, rgba(26,70,176,1) 0%, rgba(2,123,225,1) 100%);
+}

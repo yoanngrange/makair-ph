@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#027BE1" offset="0%"></stop>
+            <stop stop-color="#1A46B0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-context-01" transform="translate(-2174.000000, -610.000000)">
+            <g id="Group-2" transform="translate(2264.000000, 700.000000) scale(-1, 1) translate(-2264.000000, -700.000000) translate(2174.000000, 610.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="90" cy="90" r="90"></circle>
+                <g id="Group" transform="translate(69.613260, 49.723757)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.3999991">
+                    <path d="M38.5856331,0.397790032 L0.397790032,40.1767932 M0.397790032,40.1767932 L38.5856331,79.9557963" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
